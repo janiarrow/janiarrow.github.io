@@ -17,22 +17,16 @@
       <title>Car Rental Portal</title>
    </head>
    <body>
-      <!--Header-->
-      
-      <!-- /Header --> 
-      <!-- Banners -->
       <div class="container">
          <section id="banner" class="banner-section">
             <div class="row">
                <div class="col-md-7 col-md-pull-0">
                   <div id="myCarousel" class="carousel slide" data-ride="carousel">
-                     <!-- Indicators -->
                      <ol class="carousel-indicators">
                         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
                         <li data-target="#myCarousel" data-slide-to="1"></li>
                         <li data-target="#myCarousel" data-slide-to="2"></li>
                      </ol>
-                     <!-- Wrapper for slides -->
                      <div class="carousel-inner">
                         <div class="item active">
                            <img src="img/one.jpg" alt="Los Angeles" style="width:100%;height:450px;">
@@ -95,10 +89,6 @@
             </div>
          </section>
       </div>
-      <!-- /Banners --> 
       <br/><br/><br/><br/>
-      <!--Footer-->
-    
-      <!-- Footer --> 
    </body>
 </html>
