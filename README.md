@@ -1,4 +1,4 @@
-# janiarrow.github.io
+# Welcome to the world of generalization
 
 <!DOCTYPE html>
 <html lang="en">
