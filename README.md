@@ -1,6 +1,4 @@
 # Hi there, My name is Arosha Perera
-
-<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="utf-8">
