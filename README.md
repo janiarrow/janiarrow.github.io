@@ -1,4 +1,3 @@
-# Hi there, My name is Arosha Perera
 <html lang="en">
     <head>
         <meta charset="utf-8">
