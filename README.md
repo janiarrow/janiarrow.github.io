@@ -28,7 +28,7 @@
                             <h4>Welcome to Tech Girl</h4>
                         </div>
                         <p class="home-description">
-                            Hi, I am Arosha Perera, Software Engineer from colombo, Sri Lanka. I am passionate about java technologies, API integration and automation testing. I really love what I do.
+                            Hi, I am Arosha Perera, Software Engineer from colombo, Sri Lanka. I am passionate about java technologies, API integration and automation testing. Loving it and Living it.
                         </p>
                         <div class="btn-group-vertical custom_btn animated slideinright">
                             <div id="about" class="btn btn-rabbit">About</div>
