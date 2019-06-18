@@ -54,7 +54,7 @@
                         <a href="#index" class="btn btn-rabbit back"> <i class="fa fa-angle-left" aria-hidden="true"></i> Back to home </a>
                         <div id="watermark">
                             <h2 class="page-title" text-center>About</h2>
-                            <div class="marker">a</div>
+                            <div class="marker"></div>
                         </div>
                         <p class='subtitle'>Hi, I am Arosha Perera. A software developer, webservice developer and food lover currently based in Auckland, New Zealand.
                         </p>
